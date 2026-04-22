@@ -21,7 +21,7 @@ MainWindow::MainWindow(QWidget *parent)
     //设置大小
     this->setMinimumSize(1000,600);
     //设置标题
-    this->setWindowTitle(tr("ZhuzhaoGUI - zhouxuan - https://www.roundvision.cc"));
+    this->setWindowTitle(tr("a FaceInpaint app demo by Wanghaha"));
 
     if(false == InitWidget())
     {
