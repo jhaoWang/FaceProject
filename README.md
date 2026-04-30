@@ -2,7 +2,8 @@
 
 本项目是一款基于 LaFin 算法的遮挡人脸修复桌面端演示 Demo，为算法工程化落地提供了完整的验证与展示方案。
 
-![image-20260422141222956](C:\Users\wjh\AppData\Roaming\Typora\typora-user-images\image-20260422141222956.png)
+<img width="1710" height="1109" alt="image" src="https://github.com/user-attachments/assets/fb86b691-5f39-4ddf-bb44-197c35b75913" />
+
 
 系统采用前后端解耦的设计模式，实现了交互层与推理层的职责分离：
 
